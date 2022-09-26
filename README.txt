@@ -1,8 +1,7 @@
 Hello! The following explains what order to run the files in 
 https://github.com/nmmacdo/econ771-assignment-1-small.git to replicate my work
 for assignment 1. This is a smaller version of my original assignment-1 repo
-and does not contain the raw HCRIS, POS, or ACS Medicaid data, only the 
-processed forms. 
+and does not contain any data.
 
 Step 1: Perform the analysis.
 
